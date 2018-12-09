@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RotateAnimation</string>
+    <string name="description">a guy</string>
+    <string name="button">Rotation</string>
+</resources>
